@@ -1,80 +1,102 @@
 # 👨🏻‍💻 João Rafael Paton
 
-**`QA Junior | Qualidade de Software`**
+<h3 align="center">QA Junior | Qualidade de Software | Testes Automatizados 🚀</h3>
 
-Me chamo **João Rafael Paton**, tenho **19 anos**, sou de **Londrina – Paraná** e atualmente atuo como **QA Junior na Solus Saúde**. Tenho foco em **qualidade de software**, testes funcionais e melhoria contínua dos processos de desenvolvimento. Possuo conhecimento em desenvolvimento web e mobile, o que me permite analisar aplicações de forma mais crítica, colaborando diretamente com times de desenvolvimento.
+<p align="center">
+  <a href="mailto:joaorafaelpaton@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/QA-Quality%20Assurance-2ea44f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CI/CD-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+</p>
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente estou cursando uma **pós-graduação em Cybersegurança**. Sou movido por aprendizado constante, boas práticas e pela entrega de software confiável, seguro e bem testado.
+---
+
+## 👋 Sobre mim
+
+Sou **QA Junior** com foco em **qualidade de software**, testes funcionais e automação.
+
+🎯 Experiência com testes manuais e automatizados  
+💻 Conhecimento em desenvolvimento web e mobile  
+🔐 Pós-graduação em **Cybersegurança** (em andamento)  
+🚀 Em evolução constante com foco em **CI/CD e automação**
+
+---
+
+## 🧪 Qualidade de Software
+
+✔️ Testes Manuais  
+✔️ Testes Funcionais  
+✔️ Testes de Regressão  
+✔️ Criação de Casos de Teste  
+✔️ Reporte e Documentação de Bugs  
+✔️ Validação de Requisitos  
+
+---
+
+## 🤖 Automação de Testes
+
+⚙️ Automação de **APIs REST**  
+⚙️ Testes automatizados com **Selenium**  
+⚙️ Validação de status codes e contratos  
+⚙️ Integração de testes ao fluxo de QA  
+⚙️ Execução automatizada com **Jenkins**
+
+---
+
+## 🔄 CI/CD
+
+🚀 Conhecimentos em **Jenkins**  
+🔧 Criação de pipelines  
+🔗 Integração com Git  
+📊 Execução automatizada de testes  
+📈 Apoio na cultura de integração contínua  
+
+---
+
+## 💻 Tecnologias
 
 <p align="left">
-    <a href="#">
-        <img
-            alt="QA"
-            title="Quality Assurance"
-            src="https://img.shields.io/badge/QA-Quality%20Assurance-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white"
-        />
-    </a>
+  <img src="https://skillicons.dev/icons?i=java,react,php,laravel,bootstrap,git,jenkins" />
+</p>
 
 ---
 
-### 🎓 Formação
+## 📊 Estatísticas do GitHub
 
-* 🎓 **Análise e Desenvolvimento de Sistemas**
-* 🛡️ **Pós-graduação em Cybersegurança** (em andamento)
-
----
-
-### 🧪 Qualidade de Software
-
-* Testes Manuais
-* Testes Funcionais
-* Testes de Regressão
-* Criação de Casos de Teste
-* Reporte e Documentação de Bugs
-* Validação de Requisitos
-* **Automação de Testes de API (REST)**
-* **Automação de Testes com Selenium**
+<p align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  />
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"
+  />
+</p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🔥 Sequência de commits
 
-<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="React Native" title="React Native" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-<img align="left" alt="Laravel" title="Laravel" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-<img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="Jenkins" title="Jenkins" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
-
-<br/>
-<br/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-### 🤖 Automação de Testes
+## 🚀 Em evolução
 
-* Automação de **APIs REST**
-* Testes automatizados com **Selenium**
-* Validação de respostas, status codes e contratos
-* Integração de testes automatizados ao fluxo de QA
-* **Execução automatizada de testes com Jenkins (CI/CD)**
-
----
-
-### 🚀 Em evolução
-
-* Automação de Testes
-* Testes de API
-* Boas práticas de QA
-* Integração QA + Desenvolvimento
-* **Integração Contínua com Jenkins (CI/CD pipelines)**
+📚 Automação de Testes  
+📚 Testes de API  
+📚 Boas práticas de QA  
+📚 Integração QA + Dev  
+📚 CI/CD com **Jenkins**  
 
 ---
 
-### 📫 Contato
+## 📫 Contato
 
-* 📧 Email: joaorafaelpaton@gmail.com
+📧 **joaorafaelpaton@gmail.com**
 
 ---
