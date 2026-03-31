@@ -75,5 +75,3 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente estou cur
 * 📧 Email: joaorafaelpaton@gmail.com
 
 ---
-
-> "Qualidade não é encontrar erros, é evitar que eles aconteçam."
