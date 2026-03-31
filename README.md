@@ -46,6 +46,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente estou cur
 <img align="left" alt="Laravel" title="Laravel" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
 <img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="Jenkins" title="Jenkins" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
 
 <br/>
 <br/>
@@ -58,6 +59,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente estou cur
 * Testes automatizados com **Selenium**
 * Validação de respostas, status codes e contratos
 * Integração de testes automatizados ao fluxo de QA
+* **Execução automatizada de testes com Jenkins (CI/CD)**
 
 ---
 
@@ -67,6 +69,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente estou cur
 * Testes de API
 * Boas práticas de QA
 * Integração QA + Desenvolvimento
+* **Integração Contínua com Jenkins (CI/CD pipelines)**
 
 ---
 
